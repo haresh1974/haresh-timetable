@@ -5,3 +5,7 @@ Installable web app: daily timetable, Pinnacle revision plan (Grade X, 2026-27) 
 Open the published link on your phone or laptop and install it (Android Chrome: Install app; iPhone Safari: Share > Add to Home Screen; laptop Chrome/Edge: install icon in the address bar).
 
 Edits are saved on each device. Use Settings > Backup to move them between devices.
+
+## Rupesh Sir's timetable
+
+A separate copy for Rupesh Mestry lives in the `rupesh/` folder: https://haresh1974.github.io/haresh-timetable/rupesh/
